@@ -6,7 +6,7 @@
 * [Monde Diplomatique](https://archives.mondediplo.com)
 * [Press Reader](https://pressreader.com)
 * [Scopalto](https://academia.scopalto.com/)
-* [Universalis](www.universalis-edu.com)
+* [Universalis](http://www.universalis-edu.com/)
 * [Opac](http://opac.provincedeliege.be)
 * [Bibliothèque numérique](https://www.provincedeliege.be/fr/node/618)
 
