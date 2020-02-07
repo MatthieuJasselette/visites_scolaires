@@ -1,5 +1,5 @@
 [Cairn](www.cairn.info)
-[Gopress]](www.gopress.be)
+[Gopress](www.gopress.be)
 [Mediapart](www.mediapart.fr/licence)
 [Le Monde](www.lemonde.fr)
 [Monde Diplomatique](http://archives.mondediplo.com)
