@@ -1,3 +1,6 @@
+# Description:
+Here's a list of commonly used resources during school visits at the library.
+
 # Liste des outils pour les visites scolaires :
 * [Cairn](https://cairn.info)
 * [Gopress](https://gopress.be)
